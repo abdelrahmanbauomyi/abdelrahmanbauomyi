@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **js ,Node.js**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10Znse3LRwvw__qmmKy7lfs-xX8-GtIEj/view?usp=sharing](https://drive.google.com/file/d/10Znse3LRwvw__qmmKy7lfs-xX8-GtIEj/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/10Znse3LRwvw__qmmKy7lfs-xX8-GtIEj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
