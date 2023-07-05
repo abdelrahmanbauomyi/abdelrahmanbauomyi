@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanbauomyi&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanbauomyi" /> </p>
 
-- 🌱 I’m currently learning **React js , CSS ,TailwindCSS **
+- 🌱 I’m currently learning **React js,CSS,TailwindCSS**
 
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/10Znse3LRwvw__qmmKy7lfs-xX8-GtIEj/view?usp=sharing)
