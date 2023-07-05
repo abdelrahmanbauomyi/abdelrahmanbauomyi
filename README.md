@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanbauomyi&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanbauomyi" /> </p>
 
-- 🌱 I’m currently learning **GraphQL,mongoDB ,mongoose**
+- 🌱 I’m currently learning **React js , CSS ,TailwindCSS **
 
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/10Znse3LRwvw__qmmKy7lfs-xX8-GtIEj/view?usp=sharing)
@@ -33,7 +33,6 @@
 ![C](https://img.shields.io/badge/-c-black?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
